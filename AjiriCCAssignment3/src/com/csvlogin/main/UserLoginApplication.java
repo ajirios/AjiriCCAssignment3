@@ -5,7 +5,7 @@ import java.util.Scanner;
 import com.csvlogin.user.User;
 import com.csvlogin.user.UserService;
 
-public class CSVLogin 
+public class UserLoginApplication 
 
 {
 	
@@ -65,3 +65,4 @@ public class CSVLogin
 	}
 
 }
+
